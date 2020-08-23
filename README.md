@@ -32,12 +32,12 @@ Note. In case of any mistakes in DB schema you are able to alter the models, add
 
 10.	Add pagination to Supermarkets index page 
 
-![Pagination](/images/8.PNG)
+![Pagination](/images/8.png)
 
 
 11.	Create page Orders that reads and displays related data in the following ways 
 
-![Orders](/images/9.PNG)
+![Orders](/images/9.png)
 
    - The list of orders displays related data from the Customers and Supermarkets entities;
    - When the user selects an order, related to it data from OrderDetails entity are displayed;
