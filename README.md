@@ -39,8 +39,8 @@ Note. In case of any mistakes in DB schema you are able to alter the models, add
 
 ![Orders](/images/9.PNG)
 
-    - The list of orders displays related data from the Customers and Supermarkets entities;
-    - When the user selects an order, related to it data from OrderDetails entity are displayed;
+   - The list of orders displays related data from the Customers and Supermarkets entities;
+   - When the user selects an order, related to it data from OrderDetails entity are displayed;
 
 Note. While the creation of the items in entities that use the navigation properties user is able to see the real names of items (‘product name’ but not a ‘productId’, ‘supermarket name’ but not a ‘supermarketId’, etc).
 
