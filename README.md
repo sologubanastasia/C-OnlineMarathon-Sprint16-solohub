@@ -2,7 +2,7 @@
 C# Online Marathon Sprint 16. EFC
 Your task is to create a database according to the schema:
 
-![DBschema](/images/1.png)
+![DBschema](/images/1.PNG)
 
 1.	Create a data model:
 •	Define classes: Product, Customer, Supermarket with properties according to schema. Don’t forget about properties appropriate to entities’ Primary keys;
