@@ -1,7 +1,7 @@
 # C-OnlineMarathon-Sprint16
 C# Online Marathon Sprint 16. EFC
 Your task is to create a database according to the schema:
-![Index](/images/1.png)
+![DBschema](/images/1.png)
 1.	Create a data model:
 •	Define classes: Product, Customer, Supermarket with properties according to schema. Don’t forget about properties appropriate to entities’ Primary keys;
 •	Define class Order and OrderDetails with properties according to schema. Don’t forget about navigation properties (future entities’ Foreign keys).
@@ -10,9 +10,9 @@ Your task is to create a database according to the schema:
 4.	Add connection string to appsettings.json.
 5.	Create the class for seeding your DataBase (SampleData.cs). Define the ServiceProvider in Program.cs.
 6.	Build the application. As the result you might have your DB in SQL Server Object Explorer. 
-![Index](/images/2.png)
-![Index](/images/3.png)
-![Index](/images/4.png)
+![DB1](/images/2.png)
+![DB2](/images/3.png)
+![DB3](/images/4.png)
 •	Note. In case of any mistakes in DB schema you are able to alter the models, add migrations and update your database.
 7.	Create controllers and views for Products, Supermarkets, Customers DataModels (use scaffolding). Change Index page of application (add navy-bars and links to appropriate Index pages of DataModels) [pict.5]
 8.	Add the ability to sort the list of customers by the last name or address (in descending and ascending order) [pict. 6]
