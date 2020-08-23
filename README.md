@@ -1,6 +1,6 @@
 # C-OnlineMarathon-Sprint16
 C# Online Marathon Sprint 16. EFC
-Your task is to create a database according to the schema:
+Your task is to create a database according to the schema and define all the CRUD operations over the data.
 
 ![DBschema](/images/1.PNG)
 
