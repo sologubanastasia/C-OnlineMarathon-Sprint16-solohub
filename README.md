@@ -1,5 +1,9 @@
 # C-OnlineMarathon-Sprint16
 C# Online Marathon Sprint 16. EFC
+Your task is to create a Shopping system (registration of orders).
+The system have to provide the storage of information about the date of the order, the store (supermarket), the list of ordered products and their quantity.
+The customer would have the ability to select a store to purchase products, select the items from the list (with a view of the price) and specify the quantity of products.
+The user has the opportunity to view the list of orders. After the specific order would be choosen, a complete information about the products (their quantity, price and total cost of the order) would be displayed.
 Your task is to create a database according to the schema and define all the CRUD operations over the data.
 
 ![DBschema](/images/1.PNG)
