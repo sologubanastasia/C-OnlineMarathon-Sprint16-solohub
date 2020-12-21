@@ -6,7 +6,7 @@ The customer would have the ability to select a store to purchase products, sele
 The user has the opportunity to view the list of orders. After the specific order would be choosen, a complete information about the products (their quantity, price and total cost of the order) would be displayed.
 Your task is to create a database according to the schema and define all the CRUD operations over the data.
 
-![DBschema](/images/1.PNG)
+![DBschema](/images/1.png)
 
 1.	Create a data model:
     - Define classes: Product, Customer, Supermarket with properties according to schema. Don’t forget about properties appropriate to entities’ Primary keys;
